@@ -1,0 +1,3 @@
+npx react-native init PunjabNews
+cd PunjabNews
+npm install axios
