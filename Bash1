@@ -1,0 +1,4 @@
+mkdir PunjabNewsBackend
+cd PunjabNewsBackend
+npm init -y
+npm install express mongoose
